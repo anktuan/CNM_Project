@@ -1,0 +1,406 @@
+﻿event_date,disease,province,country,cases,trend_score,metric_type,source_type,source_name,source_url,raw_text,collected_at,confidence
+2026-05-22,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,4471.0,,weekly,hcdc,HCDC,https://hcdc.vn/chu-dong-phong-chong-dich-benh-tay-chan-mieng-r910HN.html,"Trong 20 tuần đầu năm 2024, Thành phố Hồ Chí Minh có 4471 ca mắc tay chân miệng đến khám và điều trị tại các cơ sở y tế, tăng 33% so với cùng kỳ năm 2023 và tương đương với số trung bình của 5 năm 2018-2022; số ca bệnh nặng (từ độ 2b trở lên) là 40 ca; không có ca tử vong.",2026-05-22 17:35:10,0.9
+2026-05-22,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,40.0,,weekly,hcdc,HCDC,https://hcdc.vn/chu-dong-phong-chong-dich-benh-tay-chan-mieng-r910HN.html,"Trong 20 tuần đầu năm 2024, Thành phố Hồ Chí Minh có 4471 ca mắc tay chân miệng đến khám và điều trị tại các cơ sở y tế, tăng 33% so với cùng kỳ năm 2023 và tương đương với số trung bình của 5 năm 2018-2022; số ca bệnh nặng (từ độ 2b trở lên) là 40 ca; không có ca tử vong.",2026-05-22 17:35:10,0.9
+2026-05-22,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,10227.0,,unknown,hcdc,HCDC,https://hcdc.vn/tay-chan-mieng-bao-ve-con-tu-nhung-thoi-quen-sach-P29unk.html,"Hồ Chí Minh đã ghi nhận 10.227 trường hợp mắc bệnh tay chân miệng, cao gấp 1,5 lần so với cùng kỳ năm 2024.",2026-05-22 17:35:13,0.9
+2026-05-22,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,10227.0,,unknown,hcdc,HCDC,https://hcdc.vn/tay-chan-mieng-chu-dong-phong-ngua-khi-so-ca-mac-benh-gia-tang-OklCv1.html,"Tính đến ngày 15/6/2025, Thành phố Hồ Chí Minh ghi nhận 10.227 ca mắc bệnh tay chân miệng, cao gấp 1,5 lần so với cùng kỳ năm 2024.",2026-05-22 17:35:14,0.9
+2026-05-22,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,6711.0,,cumulative,hcdc,HCDC,https://hcdc.vn/tinh-hinh-benh-tay-chan-mieng-tai-thanh-pho-ho-chi-minh-Ch2vZj.html,"Theo ghi nhận từ hệ thống giám sát bệnh truyền nhiễm, từ đầu năm 2025 đến nay thành phố ghi nhận 6.711 ca tay chân miệng, tăng 49% so với cùng kỳ năm 2024 (4.510 ca).",2026-05-22 17:35:15,0.9
+2026-05-22,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,916.0,,weekly,hcdc,HCDC,https://hcdc.vn/tinh-hinh-benh-tay-chan-mieng-tai-thanh-pho-ho-chi-minh-Ch2vZj.html,"Riêng trong tuần 20 ghi nhận 916 ca tay chân miệng, tăng 40% so với trung bình 4 tuần trước (654 ca), trong đó số ca nội trú tăng 26% so với trung bình 4 tuần trước.",2026-05-22 17:35:15,0.9
+2026-05-10,Sốt xuất huyết,TP. Hồ Chí Minh,Vietnam,466.0,,weekly,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-tren-dia-ban-tp-ho-chi-minh-tinh-den-tuan-192026-df84pO.html,"Hồ Chí Minh ghi nhận 466 trường hợp mắc bệnh sốt xuất huyết, giảm 10,4% so với trung bình 4 tuần trước.",2026-05-22 17:35:15,0.9
+2026-05-10,Sốt xuất huyết,TP. Hồ Chí Minh,Vietnam,16457.0,,cumulative,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-tren-dia-ban-tp-ho-chi-minh-tinh-den-tuan-192026-df84pO.html,Tổng số ca sốt xuất huyết tích lũy từ đầu năm 2026 đến tuần 19 là 16.457 ca.,2026-05-22 17:35:15,0.9
+2026-05-10,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,859.0,,weekly,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-tren-dia-ban-tp-ho-chi-minh-tinh-den-tuan-192026-df84pO.html,"Hồ Chí Minh cũng ghi nhận 859 trường hợp mắc bệnh tay chân miệng, giảm 25,1% so với trung bình 4 tuần trước.",2026-05-22 17:35:15,0.9
+2026-05-10,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,15989.0,,cumulative,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-tren-dia-ban-tp-ho-chi-minh-tinh-den-tuan-192026-df84pO.html,Tổng số ca tay chân miệng tích lũy từ đầu năm 2026 đến tuần 19 là 15.989 ca.,2026-05-22 17:35:15,0.9
+2025-10-26,Sốt xuất huyết,TP. Hồ Chí Minh,Vietnam,2200.0,,weekly,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-tren-dia-ban-tp-ho-chi-minh-tinh-den-tuan-432025-qBMNXA.html,"Hồ Chí Minh ghi nhận 2.200 trường hợp mắc bệnh sốt xuất huyết, giảm 3,7% so với trung bình 4 tuần trước.",2026-05-22 17:35:16,0.9
+2025-10-26,Sốt xuất huyết,TP. Hồ Chí Minh,Vietnam,48053.0,,cumulative,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-tren-dia-ban-tp-ho-chi-minh-tinh-den-tuan-432025-qBMNXA.html,Tổng số ca sốt xuất huyết tích lũy từ đầu năm 2025 đến tuần 43 là 48.053 ca.,2026-05-22 17:35:16,0.9
+2025-10-26,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,978.0,,weekly,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-tren-dia-ban-tp-ho-chi-minh-tinh-den-tuan-432025-qBMNXA.html,"Hồ Chí Minh cũng ghi nhận 978 trường hợp mắc bệnh tay chân miệng, tăng 9,2% so với trung bình 4 tuần trước.",2026-05-22 17:35:16,0.9
+2025-10-26,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,26486.0,,cumulative,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-tren-dia-ban-tp-ho-chi-minh-tinh-den-tuan-432025-qBMNXA.html,Tổng số ca tay chân miệng tích lũy từ đầu năm 2025 đến tuần 43 là 26.486 ca.,2026-05-22 17:35:16,0.9
+2025-01-05,Sốt xuất huyết,TP. Hồ Chí Minh,Vietnam,473.0,,weekly,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-va-soi-tai-tp-ho-chi-minh-tinh-den-tuan-12025-F4VQUi.html,"Hồ Chí Minh ghi nhận 473 trường hợp mắc bệnh sốt xuất huyết, giảm 28,3% so với trung bình 4 tuần trước.",2026-05-22 17:35:16,0.9
+2025-01-05,Sốt xuất huyết,TP. Hồ Chí Minh,Vietnam,473.0,,cumulative,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-va-soi-tai-tp-ho-chi-minh-tinh-den-tuan-12025-F4VQUi.html,Tổng số ca sốt xuất huyết tích lũy từ đầu năm 2025 đến tuần 1 là 473 ca.,2026-05-22 17:35:16,0.9
+2025-01-05,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,131.0,,weekly,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-va-soi-tai-tp-ho-chi-minh-tinh-den-tuan-12025-F4VQUi.html,"Hồ Chí Minh cũng ghi nhận 131 trường hợp mắc bệnh tay chân miệng, giảm 36,8% so với trung bình 4 tuần trước.",2026-05-22 17:35:16,0.9
+2025-01-05,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,131.0,,cumulative,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-va-soi-tai-tp-ho-chi-minh-tinh-den-tuan-12025-F4VQUi.html,Tổng số ca tay chân miệng tích lũy từ đầu năm 2025 đến tuần 1 là 131 ca.,2026-05-22 17:35:16,0.9
+2025-01-05,Sởi,TP. Hồ Chí Minh,Vietnam,451.0,,weekly,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-va-soi-tai-tp-ho-chi-minh-tinh-den-tuan-12025-F4VQUi.html,"Hồ Chí Minh ghi nhận 451 ca sởi, tăng 14,1% so với trung bình 4 tuần trước.",2026-05-22 17:35:16,0.9
+2025-01-05,Sởi,TP. Hồ Chí Minh,Vietnam,4494.0,,cumulative,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-va-soi-tai-tp-ho-chi-minh-tinh-den-tuan-12025-F4VQUi.html,Tổng số ca sởi tích lũy đến tuần 1/2025 là 4.494 ca.,2026-05-22 17:35:16,0.9
+2024-08-11,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,368.0,,weekly,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-va-soi-tai-tp-ho-chi-minh-tinh-den-tuan-322024-39XFah.html,"Hồ Chí Minh ghi nhận 368 trường hợp mắc bệnh tay chân miệng, giảm 13,6% so với trung bình 4 tuần trước.",2026-05-22 17:35:16,0.9
+2024-08-11,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,9866.0,,cumulative,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-va-soi-tai-tp-ho-chi-minh-tinh-den-tuan-322024-39XFah.html,Tổng số ca tay chân miệng tích lũy từ đầu năm 2024 đến tuần 32 là 9.866 ca.,2026-05-22 17:35:16,0.9
+2024-08-11,Sốt xuất huyết,TP. Hồ Chí Minh,Vietnam,272.0,,weekly,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-va-soi-tai-tp-ho-chi-minh-tinh-den-tuan-322024-39XFah.html,"Hồ Chí Minh cũng ghi nhận 272 trường hợp mắc bệnh sốt xuất huyết, tăng 18,8% so với trung bình 4 tuần trước.",2026-05-22 17:35:16,0.9
+2024-08-11,Sốt xuất huyết,TP. Hồ Chí Minh,Vietnam,5434.0,,cumulative,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-va-soi-tai-tp-ho-chi-minh-tinh-den-tuan-322024-39XFah.html,Tổng số ca sốt xuất huyết tích lũy từ đầu năm 2024 đến tuần 32 là 5.434 ca.,2026-05-22 17:35:16,0.9
+2024-08-11,Sởi,TP. Hồ Chí Minh,Vietnam,25.0,,weekly,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-va-soi-tai-tp-ho-chi-minh-tinh-den-tuan-322024-39XFah.html,Tuần 32 ghi nhận 25 ca sởi xác định.,2026-05-22 17:35:16,0.9
+2024-08-11,Sởi,TP. Hồ Chí Minh,Vietnam,153.0,,cumulative,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-va-soi-tai-tp-ho-chi-minh-tinh-den-tuan-322024-39XFah.html,Số ca sởi tích lũy từ đầu năm đến tuần 32 là 153 ca.,2026-05-22 17:35:16,0.9
+2024-10-06,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,437.0,,weekly,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-va-soi-tai-tp-ho-chi-minh-tinh-den-tuan-402024-KPVzGn.html,"Hồ Chí Minh ghi nhận 437 trường hợp mắc bệnh tay chân miệng, tăng 23,4% so với trung bình 4 tuần trước.",2026-05-22 17:35:16,0.9
+2024-10-06,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,12733.0,,cumulative,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-va-soi-tai-tp-ho-chi-minh-tinh-den-tuan-402024-KPVzGn.html,Tổng số ca tay chân miệng tích lũy từ đầu năm 2024 đến tuần 39 là 12.733 ca.,2026-05-22 17:35:16,0.9
+2024-10-06,Sốt xuất huyết,TP. Hồ Chí Minh,Vietnam,411.0,,weekly,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-va-soi-tai-tp-ho-chi-minh-tinh-den-tuan-402024-KPVzGn.html,"Hồ Chí Minh cũng ghi nhận 411 trường hợp mắc bệnh sốt xuất huyết, tăng 19,3% so với trung bình 4 tuần trước.",2026-05-22 17:35:16,0.9
+2024-10-06,Sốt xuất huyết,TP. Hồ Chí Minh,Vietnam,8198.0,,cumulative,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-va-soi-tai-tp-ho-chi-minh-tinh-den-tuan-402024-KPVzGn.html,Tổng số ca sốt xuất huyết tích lũy từ đầu năm 2024 đến tuần 40 là 8.198 ca.,2026-05-22 17:35:16,0.9
+2024-10-06,Sởi,TP. Hồ Chí Minh,Vietnam,141.0,,weekly,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-va-soi-tai-tp-ho-chi-minh-tinh-den-tuan-402024-KPVzGn.html,"Hồ Chí Minh ghi nhận 141 ca sởi, tăng 60,2% so với trung bình 4 tuần trước.",2026-05-22 17:35:16,0.9
+2024-10-06,Sởi,TP. Hồ Chí Minh,Vietnam,967.0,,cumulative,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-tay-chan-mieng-va-soi-tai-tp-ho-chi-minh-tinh-den-tuan-402024-KPVzGn.html,Tổng số ca sởi tích lũy từ đầu năm 2024 đến tuần 40 là 967 ca.,2026-05-22 17:35:16,0.9
+2024-01-14,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,228.0,,weekly,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-va-tay-chan-mieng-tai-tp-ho-chi-minh-tinh-den-tuan-22024-83WVIT.html,"Hồ Chí Minh ghi nhận 228 trường hợp mắc bệnh tay chân miệng, giảm 40% so với trung bình 4 tuần trước.",2026-05-22 17:35:17,0.9
+2024-01-14,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,494.0,,cumulative,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-va-tay-chan-mieng-tai-tp-ho-chi-minh-tinh-den-tuan-22024-83WVIT.html,Tổng số ca tay chân miệng tích lũy từ đầu năm 2024 đến tuần 2 là 494 ca.,2026-05-22 17:35:17,0.9
+2024-01-14,Sốt xuất huyết,TP. Hồ Chí Minh,Vietnam,225.0,,weekly,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-va-tay-chan-mieng-tai-tp-ho-chi-minh-tinh-den-tuan-22024-83WVIT.html,"Hồ Chí Minh cũng ghi nhận 225 trường hợp mắc bệnh sốt xuất huyết, giảm 36,0% so với trung bình 4 tuần trước.",2026-05-22 17:35:17,0.9
+2024-01-14,Sốt xuất huyết,TP. Hồ Chí Minh,Vietnam,527.0,,cumulative,hcdc,HCDC,https://hcdc.vn/tinh-hinh-dich-benh-sot-xuat-huyet-va-tay-chan-mieng-tai-tp-ho-chi-minh-tinh-den-tuan-22024-83WVIT.html,Tổng số ca sốt xuất huyết tích lũy từ đầu năm 2024 đến tuần 2 là 527 ca.,2026-05-22 17:35:17,0.9
+2026-05-22,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,16.0,,unknown,hcdc,HCDC,https://hcdc.vn/ttyt-khu-vuc-ho-tram-giam-sat-hoat-dong-phong-chong-dich-benh-tay-chan-mieng-tai-truong-mam-non-Gfdu95.html,"Tình hình dịch bệnh tay chân miệng tại trường mầm non Trong số 12 trường được giám sát, ghi nhận 08 trường có ổ dịch tay chân miệng với tổng cộng 16 ca mắc được báo cáo có các triệu chứng sốt, đau họng, chán ăn, loét miệng, nổi ban phỏng nước ở tay, chân.",2026-05-22 17:35:17,0.9
+2026-05-22,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,28.0,,cumulative,hcdc,HCDC,https://hcdc.vn/xa-thuong-tan-trien-khai-quyet-liet-cac-bien-phap-phong-chong-benh-tay-chan-mieng-trong-truong-hoc-zymZY0.html,"Từ đầu năm đến nay, xã Thường Tân ghi nhận 28 ca mắc và 4 ổ dịch tay chân miệng.",2026-05-22 17:35:17,0.9
+2026-05-22,Dại,Hà Nội,Vietnam,30.0,,reported_in_news,news,VnExpress RSS,https://vnexpress.net/ep-cha-me-tiem-vaccine-dai-5076543.html,,2026-05-22 17:29:23,0.6
+2024-12-31,Bệnh Lao,,Vietnam,184000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2023-12-31,Bệnh Lao,,Vietnam,185000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2022-12-31,Bệnh Lao,,Vietnam,177000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2021-12-31,Bệnh Lao,,Vietnam,169000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2020-12-31,Bệnh Lao,,Vietnam,168000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2019-12-31,Bệnh Lao,,Vietnam,171000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2018-12-31,Bệnh Lao,,Vietnam,175000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2017-12-31,Bệnh Lao,,Vietnam,179000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2016-12-31,Bệnh Lao,,Vietnam,182000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2015-12-31,Bệnh Lao,,Vietnam,185000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2014-12-31,Bệnh Lao,,Vietnam,188000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2013-12-31,Bệnh Lao,,Vietnam,192000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2012-12-31,Bệnh Lao,,Vietnam,195000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2011-12-31,Bệnh Lao,,Vietnam,199000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2010-12-31,Bệnh Lao,,Vietnam,202000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2009-12-31,Bệnh Lao,,Vietnam,206000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2008-12-31,Bệnh Lao,,Vietnam,209000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2007-12-31,Bệnh Lao,,Vietnam,212000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2006-12-31,Bệnh Lao,,Vietnam,213000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2005-12-31,Bệnh Lao,,Vietnam,216000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2004-12-31,Bệnh Lao,,Vietnam,219000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2003-12-31,Bệnh Lao,,Vietnam,221000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2002-12-31,Bệnh Lao,,Vietnam,224000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2001-12-31,Bệnh Lao,,Vietnam,226000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2000-12-31,Bệnh Lao,,Vietnam,229000.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2024-12-31,Sốt rét,,Vietnam,11.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2023-12-31,Sốt rét,,Vietnam,56.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2022-12-31,Sốt rét,,Vietnam,2.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2021-12-31,Sốt rét,,Vietnam,6.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2020-12-31,Sốt rét,,Vietnam,237.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2019-12-31,Sốt rét,,Vietnam,53.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2018-12-31,Sốt rét,,Vietnam,13.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2017-12-31,Sốt rét,,Vietnam,21.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2016-12-31,Sốt rét,,Vietnam,13.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2015-12-31,Sốt rét,,Vietnam,15.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2014-12-31,Sốt rét,,Vietnam,16.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2013-12-31,Sốt rét,,Vietnam,11.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2012-12-31,Sốt rét,,Vietnam,12.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2011-12-31,Sốt rét,,Vietnam,13.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2010-12-31,Sốt rét,,Vietnam,6.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2009-12-31,Sốt rét,,Vietnam,8.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2008-12-31,Sốt rét,,Vietnam,17.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2007-12-31,Sốt rét,,Vietnam,32.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2006-12-31,Sốt rét,,Vietnam,25.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2005-12-31,Sốt rét,,Vietnam,36.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2004-12-31,Sốt rét,,Vietnam,49.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2003-12-31,Sốt rét,,Vietnam,105.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2002-12-31,Sốt rét,,Vietnam,105.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2001-12-31,Sốt rét,,Vietnam,133.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2000-12-31,Sốt rét,,Vietnam,113.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1999-12-31,Sốt rét,,Vietnam,81.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1998-12-31,Sốt rét,,Vietnam,130.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1997-12-31,Sốt rét,,Vietnam,152.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1996-12-31,Sốt rét,,Vietnam,143.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1995-12-31,Sốt rét,,Vietnam,167.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1994-12-31,Sốt rét,,Vietnam,166.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1993-12-31,Sốt rét,,Vietnam,167.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1992-12-31,Sốt rét,,Vietnam,497.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1991-12-31,Sốt rét,,Vietnam,511.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1990-12-31,Sốt rét,,Vietnam,509.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1989-12-31,Sốt rét,,Vietnam,639.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1988-12-31,Sốt rét,,Vietnam,983.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1987-12-31,Sốt rét,,Vietnam,1827.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1986-12-31,Sốt rét,,Vietnam,1974.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1985-12-31,Sốt rét,,Vietnam,2361.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1984-12-31,Sốt rét,,Vietnam,2389.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1983-12-31,Sốt rét,,Vietnam,3487.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1982-12-31,Sốt rét,,Vietnam,2921.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1981-12-31,Sốt rét,,Vietnam,2688.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1980-12-31,Sốt rét,,Vietnam,1730.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1979-12-31,Sốt rét,,Vietnam,1309.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1978-12-31,Sốt rét,,Vietnam,2446.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1977-12-31,Sốt rét,,Vietnam,2476.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1976-12-31,Sốt rét,,Vietnam,2199.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1975-12-31,Sốt rét,,Vietnam,738.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+1974-12-31,Sốt rét,,Vietnam,418.0,,annual,who,WHO GHO API,https://www.who.int/data/gho/info/gho-odata-api,,2026-05-22 18:03:56,0.95
+2026-04-24,Sốt xuất huyết,,Vietnam,,0.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Sốt xuất huyết,,Vietnam,,40.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Sốt xuất huyết,,Vietnam,,93.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Sốt xuất huyết,,Vietnam,,92.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Sốt xuất huyết,,Vietnam,,97.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Sốt xuất huyết,,Vietnam,,52.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Sốt xuất huyết,,Vietnam,,61.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Sốt xuất huyết,,Vietnam,,50.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Sốt xuất huyết,,Vietnam,,89.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Sốt xuất huyết,,Vietnam,,78.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Sốt xuất huyết,,Vietnam,,48.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Sốt xuất huyết,,Vietnam,,66.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Sốt xuất huyết,,Vietnam,,59.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Sốt xuất huyết,,Vietnam,,56.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Sốt xuất huyết,,Vietnam,,54.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Sốt xuất huyết,,Vietnam,,35.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Sốt xuất huyết,,Vietnam,,45.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Sốt xuất huyết,,Vietnam,,0.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Sốt xuất huyết,,Vietnam,,71.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Sốt xuất huyết,,Vietnam,,90.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Sốt xuất huyết,,Vietnam,,71.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Sốt xuất huyết,,Vietnam,,63.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Sốt xuất huyết,,Vietnam,,65.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Sốt xuất huyết,,Vietnam,,57.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Sốt xuất huyết,,Vietnam,,56.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Sốt xuất huyết,,Vietnam,,70.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Sốt xuất huyết,,Vietnam,,44.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Sốt xuất huyết,,Vietnam,,55.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Sốt xuất huyết,,Vietnam,,48.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Sốt xuất huyết,,Vietnam,,51.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Sốt xuất huyết,,Vietnam,,50.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Sốt xuất huyết,,Vietnam,,49.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Sốt xuất huyết,,Vietnam,,60.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Sốt xuất huyết,,Vietnam,,0.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Sốt xuất huyết,,Vietnam,,96.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Sốt xuất huyết,,Vietnam,,75.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Sốt xuất huyết,,Vietnam,,84.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Sốt xuất huyết,,Vietnam,,64.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Sốt xuất huyết,,Vietnam,,85.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Sốt xuất huyết,,Vietnam,,39.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Sốt xuất huyết,,Vietnam,,69.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Sốt xuất huyết,,Vietnam,,65.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Sốt xuất huyết,,Vietnam,,53.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Sốt xuất huyết,,Vietnam,,68.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Sốt xuất huyết,,Vietnam,,45.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Sốt xuất huyết,,Vietnam,,88.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Sốt xuất huyết,,Vietnam,,90.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Sốt xuất huyết,,Vietnam,,67.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Sốt xuất huyết,,Vietnam,,55.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Sốt xuất huyết,,Vietnam,,63.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Sốt xuất huyết,,Vietnam,,0.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Sốt xuất huyết,,Vietnam,,65.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Sốt xuất huyết,,Vietnam,,100.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Sốt xuất huyết,,Vietnam,,77.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Sốt xuất huyết,,Vietnam,,82.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Sốt xuất huyết,,Vietnam,,84.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Sốt xuất huyết,,Vietnam,,64.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Sốt xuất huyết,,Vietnam,,76.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Sốt xuất huyết,,Vietnam,,72.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Sốt xuất huyết,,Vietnam,,62.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Sốt xuất huyết,,Vietnam,,54.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Sốt xuất huyết,,Vietnam,,73.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Sốt xuất huyết,,Vietnam,,71.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Sốt xuất huyết,,Vietnam,,78.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Sốt xuất huyết,,Vietnam,,69.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Sốt xuất huyết,,Vietnam,,83.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Sốt xuất huyết,,Vietnam,,49.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Sốt xuất huyết,,Vietnam,,0.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Sốt xuất huyết,,Vietnam,,89.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Sốt xuất huyết,,Vietnam,,83.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Sốt xuất huyết,,Vietnam,,95.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Sốt xuất huyết,,Vietnam,,80.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Sốt xuất huyết,,Vietnam,,82.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Sốt xuất huyết,,Vietnam,,73.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Sốt xuất huyết,,Vietnam,,68.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Sốt xuất huyết,,Vietnam,,63.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Sốt xuất huyết,,Vietnam,,86.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Sốt xuất huyết,,Vietnam,,84.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Sốt xuất huyết,,Vietnam,,49.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Sốt xuất huyết,,Vietnam,,66.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Sốt xuất huyết,,Vietnam,,61.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Sốt xuất huyết,,Vietnam,,56.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Sốt xuất huyết,,Vietnam,,62.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Sốt xuất huyết,,Vietnam,,69.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Sốt xuất huyết,,Vietnam,,31.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Sốt xuất huyết,,Vietnam,,0.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Sốt xuất huyết,,Vietnam,,53.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Sốt xuất huyết,,Vietnam,,97.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Sốt xuất huyết,,Vietnam,,91.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Sốt xuất huyết,,Vietnam,,78.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Sốt xuất huyết,,Vietnam,,62.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Sốt xuất huyết,,Vietnam,,71.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Sốt xuất huyết,,Vietnam,,56.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Sốt xuất huyết,,Vietnam,,44.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Sốt xuất huyết,,Vietnam,,0.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Sốt xuất huyết,,Vietnam,,65.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Sốt xuất huyết,,Vietnam,,45.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Sốt xuất huyết,,Vietnam,,39.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Sốt xuất huyết,,Vietnam,,68.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Sốt xuất huyết,,Vietnam,,55.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Sốt xuất huyết,,Vietnam,,58.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Sốt xuất huyết,,Vietnam,,57.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Sốt xuất huyết,,Vietnam,,64.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Sốt xuất huyết,,Vietnam,,74.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Sốt xuất huyết,,Vietnam,,68.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Sốt xuất huyết,,Vietnam,,72.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Sốt xuất huyết,,Vietnam,,59.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Sốt xuất huyết,,Vietnam,,61.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Sốt xuất huyết,,Vietnam,,63.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Sốt xuất huyết,,Vietnam,,49.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Sốt xuất huyết,,Vietnam,,45.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Sốt xuất huyết,,Vietnam,,55.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Sốt xuất huyết,,Vietnam,,48.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Sốt xuất huyết,,Vietnam,,50.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Sốt xuất huyết,,Vietnam,,54.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Sốt xuất huyết,,Vietnam,,40.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Sốt xuất huyết,,Vietnam,,69.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Sốt xuất huyết,,Vietnam,,52.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Sốt xuất huyết,,Vietnam,,0.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-24,Tay chân miệng,,Vietnam,,25.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-24,Tay chân miệng,,Vietnam,,49.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-24,Tay chân miệng,,Vietnam,,45.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-24,Tay chân miệng,,Vietnam,,36.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-24,Tay chân miệng,,Vietnam,,28.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-24,Tay chân miệng,,Vietnam,,75.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Tay chân miệng,,Vietnam,,92.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Tay chân miệng,,Vietnam,,67.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Tay chân miệng,,Vietnam,,73.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Tay chân miệng,,Vietnam,,59.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Tay chân miệng,,Vietnam,,52.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Tay chân miệng,,Vietnam,,45.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Tay chân miệng,,Vietnam,,48.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Tay chân miệng,,Vietnam,,54.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Tay chân miệng,,Vietnam,,57.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Tay chân miệng,,Vietnam,,55.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Tay chân miệng,,Vietnam,,61.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Tay chân miệng,,Vietnam,,69.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Tay chân miệng,,Vietnam,,63.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Tay chân miệng,,Vietnam,,64.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Tay chân miệng,,Vietnam,,49.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Tay chân miệng,,Vietnam,,50.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Tay chân miệng,,Vietnam,,32.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Tay chân miệng,,Vietnam,,38.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Tay chân miệng,,Vietnam,,0.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Tay chân miệng,,Vietnam,,42.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Tay chân miệng,,Vietnam,,43.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Tay chân miệng,,Vietnam,,40.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Tay chân miệng,,Vietnam,,60.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Tay chân miệng,,Vietnam,,100.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Tay chân miệng,,Vietnam,,72.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Tay chân miệng,,Vietnam,,68.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Tay chân miệng,,Vietnam,,69.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Tay chân miệng,,Vietnam,,64.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Tay chân miệng,,Vietnam,,50.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Tay chân miệng,,Vietnam,,46.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Tay chân miệng,,Vietnam,,70.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Tay chân miệng,,Vietnam,,59.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Tay chân miệng,,Vietnam,,62.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Tay chân miệng,,Vietnam,,58.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Tay chân miệng,,Vietnam,,54.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Tay chân miệng,,Vietnam,,71.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Tay chân miệng,,Vietnam,,78.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Tay chân miệng,,Vietnam,,53.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Tay chân miệng,,Vietnam,,36.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Tay chân miệng,,Vietnam,,29.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Tay chân miệng,,Vietnam,,0.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Tay chân miệng,,Vietnam,,45.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Tay chân miệng,,Vietnam,,86.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Tay chân miệng,,Vietnam,,83.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Tay chân miệng,,Vietnam,,87.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Tay chân miệng,,Vietnam,,80.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Tay chân miệng,,Vietnam,,72.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Tay chân miệng,,Vietnam,,64.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Tay chân miệng,,Vietnam,,48.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Tay chân miệng,,Vietnam,,49.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Tay chân miệng,,Vietnam,,60.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Tay chân miệng,,Vietnam,,54.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Tay chân miệng,,Vietnam,,61.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Tay chân miệng,,Vietnam,,65.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Tay chân miệng,,Vietnam,,76.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Tay chân miệng,,Vietnam,,73.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Tay chân miệng,,Vietnam,,57.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Tay chân miệng,,Vietnam,,47.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Tay chân miệng,,Vietnam,,43.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Tay chân miệng,,Vietnam,,33.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Tay chân miệng,,Vietnam,,53.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Tay chân miệng,,Vietnam,,50.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Tay chân miệng,,Vietnam,,42.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Tay chân miệng,,Vietnam,,71.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Tay chân miệng,,Vietnam,,85.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Tay chân miệng,,Vietnam,,92.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Tay chân miệng,,Vietnam,,74.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Tay chân miệng,,Vietnam,,79.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Tay chân miệng,,Vietnam,,84.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Tay chân miệng,,Vietnam,,67.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Tay chân miệng,,Vietnam,,57.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Tay chân miệng,,Vietnam,,54.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Tay chân miệng,,Vietnam,,60.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Tay chân miệng,,Vietnam,,64.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Tay chân miệng,,Vietnam,,72.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Tay chân miệng,,Vietnam,,65.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Tay chân miệng,,Vietnam,,77.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Tay chân miệng,,Vietnam,,68.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Tay chân miệng,,Vietnam,,61.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Tay chân miệng,,Vietnam,,53.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Tay chân miệng,,Vietnam,,48.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Tay chân miệng,,Vietnam,,0.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Tay chân miệng,,Vietnam,,37.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Tay chân miệng,,Vietnam,,87.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Tay chân miệng,,Vietnam,,66.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Tay chân miệng,,Vietnam,,64.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Tay chân miệng,,Vietnam,,70.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Tay chân miệng,,Vietnam,,51.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Tay chân miệng,,Vietnam,,56.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Tay chân miệng,,Vietnam,,48.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Tay chân miệng,,Vietnam,,49.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Tay chân miệng,,Vietnam,,60.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Tay chân miệng,,Vietnam,,44.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Tay chân miệng,,Vietnam,,55.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Tay chân miệng,,Vietnam,,61.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Tay chân miệng,,Vietnam,,67.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Tay chân miệng,,Vietnam,,74.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Tay chân miệng,,Vietnam,,73.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Tay chân miệng,,Vietnam,,65.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Tay chân miệng,,Vietnam,,53.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Tay chân miệng,,Vietnam,,34.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Tay chân miệng,,Vietnam,,0.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Tay chân miệng,,Vietnam,,89.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Tay chân miệng,,Vietnam,,85.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Tay chân miệng,,Vietnam,,71.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Tay chân miệng,,Vietnam,,63.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Tay chân miệng,,Vietnam,,54.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Tay chân miệng,,Vietnam,,65.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Tay chân miệng,,Vietnam,,45.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Tay chân miệng,,Vietnam,,55.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Tay chân miệng,,Vietnam,,51.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Tay chân miệng,,Vietnam,,46.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Tay chân miệng,,Vietnam,,53.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Tay chân miệng,,Vietnam,,47.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Tay chân miệng,,Vietnam,,57.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Tay chân miệng,,Vietnam,,75.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Tay chân miệng,,Vietnam,,61.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Tay chân miệng,,Vietnam,,64.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Tay chân miệng,,Vietnam,,56.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Tay chân miệng,,Vietnam,,41.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Tay chân miệng,,Vietnam,,34.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Tay chân miệng,,Vietnam,,0.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Tay chân miệng,,Vietnam,,31.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Tay chân miệng,,Vietnam,,63.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Tay chân miệng,,Vietnam,,64.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Tay chân miệng,,Vietnam,,67.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Tay chân miệng,,Vietnam,,48.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Tay chân miệng,,Vietnam,,47.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Tay chân miệng,,Vietnam,,62.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Tay chân miệng,,Vietnam,,38.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Tay chân miệng,,Vietnam,,53.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Tay chân miệng,,Vietnam,,41.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Tay chân miệng,,Vietnam,,50.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Tay chân miệng,,Vietnam,,34.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Tay chân miệng,,Vietnam,,43.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Tay chân miệng,,Vietnam,,46.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Tay chân miệng,,Vietnam,,57.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Tay chân miệng,,Vietnam,,54.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Tay chân miệng,,Vietnam,,40.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Tay chân miệng,,Vietnam,,0.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-24,Sởi,,Vietnam,,0.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Sởi,,Vietnam,,0.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Sởi,,Vietnam,,82.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-25,Sởi,,Vietnam,,54.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Sởi,,Vietnam,,0.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-26,Sởi,,Vietnam,,59.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Sởi,,Vietnam,,0.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Sởi,,Vietnam,,85.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Sởi,,Vietnam,,77.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Sởi,,Vietnam,,84.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-27,Sởi,,Vietnam,,99.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Sởi,,Vietnam,,0.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Sởi,,Vietnam,,89.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-28,Sởi,,Vietnam,,64.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Sởi,,Vietnam,,0.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Sởi,,Vietnam,,100.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Sởi,,Vietnam,,80.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-29,Sởi,,Vietnam,,69.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Sởi,,Vietnam,,0.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Sởi,,Vietnam,,94.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Sởi,,Vietnam,,87.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Sởi,,Vietnam,,73.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-04-30,Sởi,,Vietnam,,99.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Sởi,,Vietnam,,0.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5
+2026-01-05,Sởi,,Vietnam,,58.0,search_interest,gtrends,Google Trends,https://trends.google.com/trends/,,2026-05-22 18:03:56,0.5

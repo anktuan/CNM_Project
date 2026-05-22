@@ -1,10 +1,6 @@
-# Bỏ qua môi trường ảo
 venv/
-env/
-
-# Bỏ qua các file rác của Python
 __pycache__/
 *.pyc
-
-# (Tùy chọn) Bỏ qua luôn các file dữ liệu CSV đã cào về để nhẹ repo
-#data/raw/*.csv
+.DS_Store
+.env
+.ipynb_checkpoints/

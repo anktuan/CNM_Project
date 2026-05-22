@@ -1,0 +1,118 @@
+﻿event_date,disease,province,country,max_cases,avg_trend_score,news_count,source_count,source_types,metric_types,max_confidence,cases,trend_score,alert_level
+1974-12-31,Sốt rét,,Vietnam,418.0,,0,1,who,annual,0.95,418.0,,Low
+1975-12-31,Sốt rét,,Vietnam,738.0,,0,1,who,annual,0.95,738.0,,Medium
+1976-12-31,Sốt rét,,Vietnam,2199.0,,0,1,who,annual,0.95,2199.0,,High
+1977-12-31,Sốt rét,,Vietnam,2476.0,,0,1,who,annual,0.95,2476.0,,High
+1978-12-31,Sốt rét,,Vietnam,2446.0,,0,1,who,annual,0.95,2446.0,,High
+1979-12-31,Sốt rét,,Vietnam,1309.0,,0,1,who,annual,0.95,1309.0,,High
+1980-12-31,Sốt rét,,Vietnam,1730.0,,0,1,who,annual,0.95,1730.0,,High
+1981-12-31,Sốt rét,,Vietnam,2688.0,,0,1,who,annual,0.95,2688.0,,High
+1982-12-31,Sốt rét,,Vietnam,2921.0,,0,1,who,annual,0.95,2921.0,,High
+1983-12-31,Sốt rét,,Vietnam,3487.0,,0,1,who,annual,0.95,3487.0,,High
+1984-12-31,Sốt rét,,Vietnam,2389.0,,0,1,who,annual,0.95,2389.0,,High
+1985-12-31,Sốt rét,,Vietnam,2361.0,,0,1,who,annual,0.95,2361.0,,High
+1986-12-31,Sốt rét,,Vietnam,1974.0,,0,1,who,annual,0.95,1974.0,,High
+1987-12-31,Sốt rét,,Vietnam,1827.0,,0,1,who,annual,0.95,1827.0,,High
+1988-12-31,Sốt rét,,Vietnam,983.0,,0,1,who,annual,0.95,983.0,,Medium
+1989-12-31,Sốt rét,,Vietnam,639.0,,0,1,who,annual,0.95,639.0,,Medium
+1990-12-31,Sốt rét,,Vietnam,509.0,,0,1,who,annual,0.95,509.0,,Medium
+1991-12-31,Sốt rét,,Vietnam,511.0,,0,1,who,annual,0.95,511.0,,Medium
+1992-12-31,Sốt rét,,Vietnam,497.0,,0,1,who,annual,0.95,497.0,,Low
+1993-12-31,Sốt rét,,Vietnam,167.0,,0,1,who,annual,0.95,167.0,,Low
+1994-12-31,Sốt rét,,Vietnam,166.0,,0,1,who,annual,0.95,166.0,,Low
+1995-12-31,Sốt rét,,Vietnam,167.0,,0,1,who,annual,0.95,167.0,,Low
+1996-12-31,Sốt rét,,Vietnam,143.0,,0,1,who,annual,0.95,143.0,,Low
+1997-12-31,Sốt rét,,Vietnam,152.0,,0,1,who,annual,0.95,152.0,,Low
+1998-12-31,Sốt rét,,Vietnam,130.0,,0,1,who,annual,0.95,130.0,,Low
+1999-12-31,Sốt rét,,Vietnam,81.0,,0,1,who,annual,0.95,81.0,,Low
+2000-12-31,Bệnh Lao,,Vietnam,229000.0,,0,1,who,annual,0.95,229000.0,,High
+2000-12-31,Sốt rét,,Vietnam,113.0,,0,1,who,annual,0.95,113.0,,Low
+2001-12-31,Bệnh Lao,,Vietnam,226000.0,,0,1,who,annual,0.95,226000.0,,High
+2001-12-31,Sốt rét,,Vietnam,133.0,,0,1,who,annual,0.95,133.0,,Low
+2002-12-31,Bệnh Lao,,Vietnam,224000.0,,0,1,who,annual,0.95,224000.0,,High
+2002-12-31,Sốt rét,,Vietnam,105.0,,0,1,who,annual,0.95,105.0,,Low
+2003-12-31,Bệnh Lao,,Vietnam,221000.0,,0,1,who,annual,0.95,221000.0,,High
+2003-12-31,Sốt rét,,Vietnam,105.0,,0,1,who,annual,0.95,105.0,,Low
+2004-12-31,Bệnh Lao,,Vietnam,219000.0,,0,1,who,annual,0.95,219000.0,,High
+2004-12-31,Sốt rét,,Vietnam,49.0,,0,1,who,annual,0.95,49.0,,Low
+2005-12-31,Bệnh Lao,,Vietnam,216000.0,,0,1,who,annual,0.95,216000.0,,High
+2005-12-31,Sốt rét,,Vietnam,36.0,,0,1,who,annual,0.95,36.0,,Low
+2006-12-31,Bệnh Lao,,Vietnam,213000.0,,0,1,who,annual,0.95,213000.0,,High
+2006-12-31,Sốt rét,,Vietnam,25.0,,0,1,who,annual,0.95,25.0,,Low
+2007-12-31,Bệnh Lao,,Vietnam,212000.0,,0,1,who,annual,0.95,212000.0,,High
+2007-12-31,Sốt rét,,Vietnam,32.0,,0,1,who,annual,0.95,32.0,,Low
+2008-12-31,Bệnh Lao,,Vietnam,209000.0,,0,1,who,annual,0.95,209000.0,,High
+2008-12-31,Sốt rét,,Vietnam,17.0,,0,1,who,annual,0.95,17.0,,Low
+2009-12-31,Bệnh Lao,,Vietnam,206000.0,,0,1,who,annual,0.95,206000.0,,High
+2009-12-31,Sốt rét,,Vietnam,8.0,,0,1,who,annual,0.95,8.0,,Low
+2010-12-31,Bệnh Lao,,Vietnam,202000.0,,0,1,who,annual,0.95,202000.0,,High
+2010-12-31,Sốt rét,,Vietnam,6.0,,0,1,who,annual,0.95,6.0,,Low
+2011-12-31,Bệnh Lao,,Vietnam,199000.0,,0,1,who,annual,0.95,199000.0,,High
+2011-12-31,Sốt rét,,Vietnam,13.0,,0,1,who,annual,0.95,13.0,,Low
+2012-12-31,Bệnh Lao,,Vietnam,195000.0,,0,1,who,annual,0.95,195000.0,,High
+2012-12-31,Sốt rét,,Vietnam,12.0,,0,1,who,annual,0.95,12.0,,Low
+2013-12-31,Bệnh Lao,,Vietnam,192000.0,,0,1,who,annual,0.95,192000.0,,High
+2013-12-31,Sốt rét,,Vietnam,11.0,,0,1,who,annual,0.95,11.0,,Low
+2014-12-31,Bệnh Lao,,Vietnam,188000.0,,0,1,who,annual,0.95,188000.0,,High
+2014-12-31,Sốt rét,,Vietnam,16.0,,0,1,who,annual,0.95,16.0,,Low
+2015-12-31,Bệnh Lao,,Vietnam,185000.0,,0,1,who,annual,0.95,185000.0,,High
+2015-12-31,Sốt rét,,Vietnam,15.0,,0,1,who,annual,0.95,15.0,,Low
+2016-12-31,Bệnh Lao,,Vietnam,182000.0,,0,1,who,annual,0.95,182000.0,,High
+2016-12-31,Sốt rét,,Vietnam,13.0,,0,1,who,annual,0.95,13.0,,Low
+2017-12-31,Bệnh Lao,,Vietnam,179000.0,,0,1,who,annual,0.95,179000.0,,High
+2017-12-31,Sốt rét,,Vietnam,21.0,,0,1,who,annual,0.95,21.0,,Low
+2018-12-31,Bệnh Lao,,Vietnam,175000.0,,0,1,who,annual,0.95,175000.0,,High
+2018-12-31,Sốt rét,,Vietnam,13.0,,0,1,who,annual,0.95,13.0,,Low
+2019-12-31,Bệnh Lao,,Vietnam,171000.0,,0,1,who,annual,0.95,171000.0,,High
+2019-12-31,Sốt rét,,Vietnam,53.0,,0,1,who,annual,0.95,53.0,,Low
+2020-12-31,Bệnh Lao,,Vietnam,168000.0,,0,1,who,annual,0.95,168000.0,,High
+2020-12-31,Sốt rét,,Vietnam,237.0,,0,1,who,annual,0.95,237.0,,Low
+2021-12-31,Bệnh Lao,,Vietnam,169000.0,,0,1,who,annual,0.95,169000.0,,High
+2021-12-31,Sốt rét,,Vietnam,6.0,,0,1,who,annual,0.95,6.0,,Low
+2022-12-31,Bệnh Lao,,Vietnam,177000.0,,0,1,who,annual,0.95,177000.0,,High
+2022-12-31,Sốt rét,,Vietnam,2.0,,0,1,who,annual,0.95,2.0,,Low
+2023-12-31,Bệnh Lao,,Vietnam,185000.0,,0,1,who,annual,0.95,185000.0,,High
+2023-12-31,Sốt rét,,Vietnam,56.0,,0,1,who,annual,0.95,56.0,,Low
+2024-01-14,Sốt xuất huyết,TP. Hồ Chí Minh,Vietnam,527.0,,0,2,hcdc,"cumulative,weekly",0.9,527.0,,Medium
+2024-01-14,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,494.0,,0,2,hcdc,"cumulative,weekly",0.9,494.0,,Low
+2024-08-11,Sốt xuất huyết,TP. Hồ Chí Minh,Vietnam,5434.0,,0,2,hcdc,"cumulative,weekly",0.9,5434.0,,High
+2024-08-11,Sởi,TP. Hồ Chí Minh,Vietnam,153.0,,0,2,hcdc,"cumulative,weekly",0.9,153.0,,Low
+2024-08-11,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,9866.0,,0,2,hcdc,"cumulative,weekly",0.9,9866.0,,High
+2024-10-06,Sốt xuất huyết,TP. Hồ Chí Minh,Vietnam,8198.0,,0,2,hcdc,"cumulative,weekly",0.9,8198.0,,High
+2024-10-06,Sởi,TP. Hồ Chí Minh,Vietnam,967.0,,0,2,hcdc,"cumulative,weekly",0.9,967.0,,Medium
+2024-10-06,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,12733.0,,0,2,hcdc,"cumulative,weekly",0.9,12733.0,,High
+2024-12-31,Bệnh Lao,,Vietnam,184000.0,,0,1,who,annual,0.95,184000.0,,High
+2024-12-31,Sốt rét,,Vietnam,11.0,,0,1,who,annual,0.95,11.0,,Low
+2025-01-05,Sốt xuất huyết,TP. Hồ Chí Minh,Vietnam,473.0,,0,2,hcdc,"cumulative,weekly",0.9,473.0,,Low
+2025-01-05,Sởi,TP. Hồ Chí Minh,Vietnam,4494.0,,0,2,hcdc,"cumulative,weekly",0.9,4494.0,,High
+2025-01-05,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,131.0,,0,2,hcdc,"cumulative,weekly",0.9,131.0,,Low
+2025-10-26,Sốt xuất huyết,TP. Hồ Chí Minh,Vietnam,48053.0,,0,2,hcdc,"cumulative,weekly",0.9,48053.0,,High
+2025-10-26,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,26486.0,,0,2,hcdc,"cumulative,weekly",0.9,26486.0,,High
+2026-01-05,Sốt xuất huyết,,Vietnam,,53.6875,0,16,gtrends,search_interest,0.5,,53.6875,Low signal
+2026-01-05,Sởi,,Vietnam,,29.0,0,2,gtrends,search_interest,0.5,,29.0,Low signal
+2026-01-05,Tay chân miệng,,Vietnam,,47.470588235294116,0,17,gtrends,search_interest,0.5,,47.470588235294116,Low signal
+2026-04-24,Sốt xuất huyết,,Vietnam,,0.0,0,1,gtrends,search_interest,0.5,,0.0,Low signal
+2026-04-24,Sởi,,Vietnam,,0.0,0,1,gtrends,search_interest,0.5,,0.0,Low signal
+2026-04-24,Tay chân miệng,,Vietnam,,43.0,0,6,gtrends,search_interest,0.5,,43.0,Low signal
+2026-04-25,Sốt xuất huyết,,Vietnam,,60.333333333333336,0,18,gtrends,search_interest,0.5,,60.333333333333336,Medium signal
+2026-04-25,Sởi,,Vietnam,,45.333333333333336,0,3,gtrends,search_interest,0.5,,45.333333333333336,Low signal
+2026-04-25,Tay chân miệng,,Vietnam,,52.40909090909091,0,22,gtrends,search_interest,0.5,,52.40909090909091,Low signal
+2026-04-26,Sốt xuất huyết,,Vietnam,,55.266666666666666,0,15,gtrends,search_interest,0.5,,55.266666666666666,Low signal
+2026-04-26,Sởi,,Vietnam,,29.5,0,2,gtrends,search_interest,0.5,,29.5,Low signal
+2026-04-26,Tay chân miệng,,Vietnam,,57.2,0,20,gtrends,search_interest,0.5,,57.2,Low signal
+2026-04-27,Sốt xuất huyết,,Vietnam,,65.05882352941177,0,17,gtrends,search_interest,0.5,,65.05882352941177,Medium signal
+2026-04-27,Sởi,,Vietnam,,69.0,0,5,gtrends,search_interest,0.5,,69.0,Medium signal
+2026-04-27,Tay chân miệng,,Vietnam,,61.54545454545455,0,22,gtrends,search_interest,0.5,,61.54545454545455,Medium signal
+2026-04-28,Sốt xuất huyết,,Vietnam,,69.33333333333333,0,18,gtrends,search_interest,0.5,,69.33333333333333,Medium signal
+2026-04-28,Sởi,,Vietnam,,51.0,0,3,gtrends,search_interest,0.5,,51.0,Low signal
+2026-04-28,Tay chân miệng,,Vietnam,,63.0,0,19,gtrends,search_interest,0.5,,63.0,Medium signal
+2026-04-29,Sốt xuất huyết,,Vietnam,,64.5,0,18,gtrends,search_interest,0.5,,64.5,Medium signal
+2026-04-29,Sởi,,Vietnam,,62.25,0,4,gtrends,search_interest,0.5,,62.25,Medium signal
+2026-04-29,Tay chân miệng,,Vietnam,,56.68421052631579,0,19,gtrends,search_interest,0.5,,56.68421052631579,Low signal
+2026-04-30,Sốt xuất huyết,,Vietnam,,59.375,0,16,gtrends,search_interest,0.5,,59.375,Low signal
+2026-04-30,Sởi,,Vietnam,,70.6,0,5,gtrends,search_interest,0.5,,70.6,Medium signal
+2026-04-30,Tay chân miệng,,Vietnam,,54.42857142857143,0,21,gtrends,search_interest,0.5,,54.42857142857143,Low signal
+2026-05-10,Sốt xuất huyết,TP. Hồ Chí Minh,Vietnam,16457.0,,0,2,hcdc,"cumulative,weekly",0.9,16457.0,,High
+2026-05-10,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,15989.0,,0,2,hcdc,"cumulative,weekly",0.9,15989.0,,High
+2026-05-22,Dại,Hà Nội,Vietnam,30.0,,1,1,news,reported_in_news,0.6,30.0,,Low
+2026-05-22,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,10227.0,,0,8,hcdc,"cumulative,unknown,weekly",0.9,10227.0,,High

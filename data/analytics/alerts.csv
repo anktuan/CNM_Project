@@ -1,0 +1,16 @@
+﻿event_date,disease,province,country,max_cases,avg_trend_score,news_count,source_count,source_types,metric_types,max_confidence,cases,trend_score,alert_level,alert_message
+2025-01-05,Sởi,TP. Hồ Chí Minh,Vietnam,4494.0,,0,2,hcdc,"cumulative,weekly",0.9,4494.0,,High,High: Sởi tại TP. Hồ Chí Minh có số ca tích lũy đạt 4494 ca tính đến 2025-01-05.
+2025-10-26,Sốt xuất huyết,TP. Hồ Chí Minh,Vietnam,48053.0,,0,2,hcdc,"cumulative,weekly",0.9,48053.0,,High,High: Sốt xuất huyết tại TP. Hồ Chí Minh có số ca tích lũy đạt 48053 ca tính đến 2025-10-26.
+2025-10-26,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,26486.0,,0,2,hcdc,"cumulative,weekly",0.9,26486.0,,High,High: Tay chân miệng tại TP. Hồ Chí Minh có số ca tích lũy đạt 26486 ca tính đến 2025-10-26.
+2026-04-25,Sốt xuất huyết,,Vietnam,,60.333333333333336,0,18,gtrends,search_interest,0.5,,60.333333333333336,Medium signal,Medium signal: Mức quan tâm tìm kiếm về Sốt xuất huyết đạt 60.3 vào 2026-04-25.
+2026-04-27,Sốt xuất huyết,,Vietnam,,65.05882352941177,0,17,gtrends,search_interest,0.5,,65.05882352941177,Medium signal,Medium signal: Mức quan tâm tìm kiếm về Sốt xuất huyết đạt 65.1 vào 2026-04-27.
+2026-04-27,Sởi,,Vietnam,,69.0,0,5,gtrends,search_interest,0.5,,69.0,Medium signal,Medium signal: Mức quan tâm tìm kiếm về Sởi đạt 69.0 vào 2026-04-27.
+2026-04-27,Tay chân miệng,,Vietnam,,61.54545454545455,0,22,gtrends,search_interest,0.5,,61.54545454545455,Medium signal,Medium signal: Mức quan tâm tìm kiếm về Tay chân miệng đạt 61.5 vào 2026-04-27.
+2026-04-28,Sốt xuất huyết,,Vietnam,,69.33333333333333,0,18,gtrends,search_interest,0.5,,69.33333333333333,Medium signal,Medium signal: Mức quan tâm tìm kiếm về Sốt xuất huyết đạt 69.3 vào 2026-04-28.
+2026-04-28,Tay chân miệng,,Vietnam,,63.0,0,19,gtrends,search_interest,0.5,,63.0,Medium signal,Medium signal: Mức quan tâm tìm kiếm về Tay chân miệng đạt 63.0 vào 2026-04-28.
+2026-04-29,Sốt xuất huyết,,Vietnam,,64.5,0,18,gtrends,search_interest,0.5,,64.5,Medium signal,Medium signal: Mức quan tâm tìm kiếm về Sốt xuất huyết đạt 64.5 vào 2026-04-29.
+2026-04-29,Sởi,,Vietnam,,62.25,0,4,gtrends,search_interest,0.5,,62.25,Medium signal,Medium signal: Mức quan tâm tìm kiếm về Sởi đạt 62.2 vào 2026-04-29.
+2026-04-30,Sởi,,Vietnam,,70.6,0,5,gtrends,search_interest,0.5,,70.6,Medium signal,Medium signal: Mức quan tâm tìm kiếm về Sởi đạt 70.6 vào 2026-04-30.
+2026-05-10,Sốt xuất huyết,TP. Hồ Chí Minh,Vietnam,16457.0,,0,2,hcdc,"cumulative,weekly",0.9,16457.0,,High,High: Sốt xuất huyết tại TP. Hồ Chí Minh có số ca tích lũy đạt 16457 ca tính đến 2026-05-10.
+2026-05-10,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,15989.0,,0,2,hcdc,"cumulative,weekly",0.9,15989.0,,High,High: Tay chân miệng tại TP. Hồ Chí Minh có số ca tích lũy đạt 15989 ca tính đến 2026-05-10.
+2026-05-22,Tay chân miệng,TP. Hồ Chí Minh,Vietnam,10227.0,,0,8,hcdc,"cumulative,unknown,weekly",0.9,10227.0,,High,High: Tay chân miệng tại TP. Hồ Chí Minh có số ca tích lũy đạt 10227 ca tính đến 2026-05-22.
