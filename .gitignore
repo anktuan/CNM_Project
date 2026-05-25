@@ -1,6 +1,9 @@
+.env
+.venv/
 venv/
 __pycache__/
-*.pyc
-.DS_Store
-.env
-.ipynb_checkpoints/
+*.py[cod]
+.pytest_cache/
+logs/*.log
+postgres_data/
+.streamlit/secrets.toml

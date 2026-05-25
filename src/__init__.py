@@ -1,0 +1,1 @@
+"""Infectious disease monitoring package."""

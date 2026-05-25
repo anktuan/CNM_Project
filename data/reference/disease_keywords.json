@@ -1,0 +1,62 @@
+{
+    "sot_xuat_huyet": [
+        "sốt xuất huyết",
+        "dengue",
+        "muỗi vằn",
+        "sốt dengue",
+        "xuất huyết đen"
+    ],
+    "tay_chan_mieng": [
+        "tay chân miệng",
+        "tay-chân-miệng",
+        "tcm",
+        "hfmd",
+        "bệnh tay chân miệng",
+        "phỏng nước lòng bàn tay"
+    ],
+    "cum_mua": [
+        "cúm",
+        "cúm a",
+        "cúm b",
+        "influenza",
+        "cúm mùa",
+        "h1n1",
+        "h5n1"
+    ],
+    "sot_xuat_huyet_vbulletin": [
+        "sốt phát ban",
+        "sởi",
+        "measles",
+        "bệnh sởi"
+    ],
+    "thuy_dau": [
+        "thủy đậu",
+        "trái rạ",
+        "chickenpox",
+        "phỏng rạ"
+    ],
+    "dau_mua_khid": [
+        "đậu mùa khỉ",
+        "mpox",
+        "monkeypox"
+    ],
+    "dau_mat_do": [
+        "đau mắt đỏ",
+        "viêm kết mạc",
+        "đau mắt dịch"
+    ],
+    "sot_ret": [
+        "sốt rét",
+        "malaria",
+        "ký sinh trùng sốt rét"
+    ],
+    "tiu_chay_cap": [
+        "tiêu chảy cấp",
+        "rotavirus",
+        "nhiễm trùng đường ruột"
+    ],
+    "ho_ga": [
+        "ho gà",
+        "pertussis"
+    ]
+}

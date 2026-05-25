@@ -1,0 +1,53 @@
+services:
+  db:
+    image: postgres:15-alpine
+    container_name: cnm_disease_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: atuans_admin
+      POSTGRES_PASSWORD: atuans2026
+      POSTGRES_DB: cnm_disease_db
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U atuans_admin -d cnm_disease_db" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  scheduler:
+    build: .
+    container_name: cnm_scheduler
+    restart: unless-stopped
+    command: [ "python", "main.py", "scheduler" ]
+    env_file:
+      - .env
+    environment:
+      DATABASE_URL: postgresql+psycopg://atuans_admin:atuans2026@db:5432/cnm_disease_db
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - ./logs:/app/logs
+
+  dashboard:
+    build: .
+    container_name: cnm_dashboard
+    restart: unless-stopped
+    command: [ "streamlit", "run", "dashboard/app.py", "--server.address=0.0.0.0", "--server.port=8501" ]
+    env_file:
+      - .env
+    environment:
+      DATABASE_URL: postgresql+psycopg://atuans_admin:atuans2026@db:5432/cnm_disease_db
+    ports:
+      - "8501:8501"
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - ./logs:/app/logs
+
+volumes:
+  postgres_data:
